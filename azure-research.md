@@ -31,9 +31,7 @@ Azure can be used for Windows Server migration, Microsoft 365 environments, ente
 
 ## Screenshot
 
-Add a screenshot of the Azure homepage or Azure Portal here.
-
-![Azure Homepage](screenshots/azure-homepage.png)
+<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/f061b4a7-8b9e-4b3d-85f7-f70eef1c15d3" />
 
 ## Sources
 
